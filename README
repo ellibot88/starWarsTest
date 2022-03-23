@@ -1,0 +1,6 @@
+&&: AND
+||: OR
+!==: NOT
+===: precise equal to
+==: fuzzy equal to
+
