@@ -3,13 +3,29 @@
 !==: NOT
 ===: precise equal to
 ==: fuzzy equal to
+i++: increments variable by 1
+i--: decreases variable by 1
+i+=2: increments variable by number after '=' (in this case it would add 2)
+i-=5 decreases variable by number after '=' (int his case it would subtract 5)
+
+
+
+Conditional logic, loops, arrays, pair programming, GitHub
+
+You can't use 'AND' or 'OR' in JS (has to be && and ||)
+
+For loop takes in 3 separate arguments (iterator variable declaration, condition to exit loop, incrementing iterator)
+
+for(let i = 0; i < 5; i++){
+
+
+}
 
 for(statement1; statement2; statement3){
 
 //code to execute during loop
 
 }
-
 
 
 if(condition){

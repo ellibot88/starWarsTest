@@ -1,3 +1,12 @@
+//While Loop syntax:
+
+let x = 10;
+
+while (x < 50) {
+  console.log(x);
+  x += 1;
+}
+
 //For Loop syntax:
 
 // for (let i = 0; i < cars.length; i++) {
