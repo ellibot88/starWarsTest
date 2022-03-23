@@ -4,3 +4,24 @@
 ===: precise equal to
 ==: fuzzy equal to
 
+for(statement1; statement2; statement3){
+
+//code to execute during loop
+
+}
+
+
+
+if(condition){
+
+//code to execute if condition is met
+
+}else if{
+
+//code to execute if condition is met
+
+}else{
+
+//code to execute if no conditions are met
+
+}
